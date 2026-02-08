@@ -10,9 +10,7 @@ I enjoy turning raw data into valuable insights and exploring how secure systems
 
 ### 🌱 What I’m Currently Focusing On
 
-* Building practical skills in **Network Security** as part of the **NTi Cybersecurity Training Program**.
 * Developing real-world **Data Analysis** projects, transforming complex data into clear insights.
-
 ---
 
 ### 🛠️ My Toolkit
