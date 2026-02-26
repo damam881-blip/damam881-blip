@@ -1,6 +1,6 @@
-# Hi there, I'm Deyaa Emam 👋
+# Hi there, I'm Deyaa Mohamed Emam 👋
 
-I'm a passionate and driven IT enthusiast specializing in the intersection of **Cybersecurity** and **Data Analysis**.
+I'm a passionate and driven IT enthusiast specializing in the intersection of **Business Analysis** and **Data Analysis**.
 
 I enjoy turning raw data into valuable insights and exploring how secure systems can protect and empower modern businesses.
 
@@ -18,8 +18,7 @@ I enjoy turning raw data into valuable insights and exploring how secure systems
 Here are some of the tools and technologies I'm working with:
 
 * **Data Analysis:** Power BI, SQL, Data Visualization, Data Modeling
-* **Cybersecurity:** Network Security, (Add other skills from your program, e.g., Risk Assessment, SIEM)
-* **(Other):** (Add any other languages/tools, e.g., Python, Excel)
+* **Business Analysis**
 
 ---
 
